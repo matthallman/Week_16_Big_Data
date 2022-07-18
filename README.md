@@ -7,7 +7,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 
 This new assignment consists of two technical analysis deliverables and a written report. You will submit the following:
-- Deliverable 1: Perform ETL on Amazon Product Reviews
+- Deliverable 1: Perform ETL on Amazon Product Reviews 
 - Deliverable 2: Determine Bias of Vine Reviews
 - Deliverable 3: A Written Report on the Analysis (README.md)
 
@@ -15,3 +15,5 @@ This new assignment consists of two technical analysis deliverables and a writte
 - Percentage of unpaid Vine Reviews with 5-stars reviews: 37.448071%
 - Percentage of unpaid Vine Reviews with 1-stars reviews: 31.216617%
 - More analysis is needed.
+
+Source: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Outdoors_v1_00.tsv.gz
