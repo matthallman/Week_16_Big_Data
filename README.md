@@ -11,4 +11,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 - Deliverable 2: Determine Bias of Vine Reviews
 - Deliverable 3: A Written Report on the Analysis (README.md)
 
-More analysis is needed.
+### Results
+- Percentage of unpaid Vine Reviews with 5-stars reviews: 37.448071%
+- Percentage of unpaid Vine Reviews with 1-stars reviews: 31.216617%
+- More analysis is needed.
