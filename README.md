@@ -16,4 +16,4 @@ This new assignment consists of two technical analysis deliverables and a writte
 - Percentage of unpaid Vine Reviews with 1-stars reviews: 31.216617%
 - More analysis is needed.
 
-Source: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Outdoors_v1_00.tsv.gz
+Source: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Digital_Video_Games_v1_00.tsv.gz
